@@ -1,0 +1,14 @@
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\bin\Debug\net9.0\RangeProblem.exe
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\bin\Debug\net9.0\RangeProblem.deps.json
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\bin\Debug\net9.0\RangeProblem.runtimeconfig.json
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\bin\Debug\net9.0\RangeProblem.dll
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\bin\Debug\net9.0\RangeProblem.pdb
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\RangeProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\RangeProblem.AssemblyInfoInputs.cache
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\RangeProblem.AssemblyInfo.cs
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\RangeProblem.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\RangeProblem.dll
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\refint\RangeProblem.dll
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\RangeProblem.pdb
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\RangeProblem.genruntimeconfig.cache
+C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\ref\RangeProblem.dll
