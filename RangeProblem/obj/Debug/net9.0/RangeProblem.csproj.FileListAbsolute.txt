@@ -12,3 +12,4 @@ C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\re
 C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\RangeProblem.pdb
 C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\RangeProblem.genruntimeconfig.cache
 C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\ref\RangeProblem.dll
+c:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem\obj\Debug\net9.0\RangeProblem.sourcelink.json

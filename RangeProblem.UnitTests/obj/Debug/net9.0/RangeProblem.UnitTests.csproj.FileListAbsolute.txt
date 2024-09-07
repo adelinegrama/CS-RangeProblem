@@ -233,3 +233,4 @@ C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem.UnitTests\obj\Debug
 C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem.UnitTests\obj\Debug\net9.0\RangeProblem.UnitTests.pdb
 C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem.UnitTests\obj\Debug\net9.0\RangeProblem.UnitTests.genruntimeconfig.cache
 C:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem.UnitTests\obj\Debug\net9.0\ref\RangeProblem.UnitTests.dll
+c:\Users\alina\OneDrive\Desktop\CS\RangeProblem\RangeProblem.UnitTests\obj\Debug\net9.0\RangeProblem.UnitTests.sourcelink.json
