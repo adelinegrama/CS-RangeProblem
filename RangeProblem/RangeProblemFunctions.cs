@@ -18,7 +18,7 @@ public class RangeProblemFunctions
         {
             throw new ArgumentException("String cannot be null, empty or white space!");
         }
-        
+
         if (rawRange.Length == 1)
         {
             throw new ArgumentException("You must enter more than 1 number!");
@@ -87,7 +87,8 @@ public class RangeProblemFunctions
     public List<int> FillRangeList(int minNumberOfRange, int maxNumberOfRange, List<int> rangeList)
     {
         rangeList = Enumerable.Range(minNumberOfRange + 1, maxNumberOfRange - minNumberOfRange)
-        .Where(n => n < maxNumberOfRange && !rangeList.Contains(n)).ToList();
+                    .Where(n => n < maxNumberOfRange && !rangeList.Contains(n))
+                    .ToList();
         Console.WriteLine("In fill range list method.");
         return rangeList;
     }
